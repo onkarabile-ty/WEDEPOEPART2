@@ -6,7 +6,7 @@
 
 **Website:** Press and Wash Laundry Business  
 **Student:** ST10530939  
-**Technology:** HTML5 and CSS3
+**MODULE;** WEDE5020
 
 ---
 
